@@ -1,0 +1,7 @@
+Start with index.html page. After openning you will get a sign-up form, if you try to submit it without filling 
+one or more fields it will show a pop-up saying to fill those unfilled fields. Upon successful submission it will 
+redirect you to redirect.html.
+
+Structure Code: HTML5
+Style: CSS3
+Client-side Validation: JavaScript
